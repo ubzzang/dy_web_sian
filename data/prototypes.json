@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "id": "main",
+      "title": "동연에스엔티 홈페이지 리뉴얼",
+      "thumb": "./assets/main.jpg",
+      "sequence": ["./assets/main.jpg", "./assets/sub01.jpg", "./assets/sub02.jpg"]
+    }
+  ]
+}
